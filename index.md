@@ -142,6 +142,8 @@ Modify the block below if there are any special requirements.
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  
+  When directed, participants can log into Socrative [here](https://b.socrative.com/login/student/) to answer in-class check-in questions.
 </p>
 
 {% comment%}
@@ -170,7 +172,7 @@ special instructions.
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
+  organizers in advance. If we can help making learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
   attempt to provide them.
